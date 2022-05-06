@@ -1,7 +1,6 @@
 # Classification of ransomware based on ensemble learning
 This is the guide of the project.
 
-Ransomware Classification
 --------------------------------------------------
 I: Disassembling
 --------------------------------------------------
