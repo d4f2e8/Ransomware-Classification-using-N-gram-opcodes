@@ -6,7 +6,9 @@ Ransomware Classification
 I: Disassembling
 --------------------------------------------------
 1）Disassemble all the ransomwars to get asm files
-
+2) Make sure you have label.csv file in the source folder. It contains the label information.
+	
+	It will generate a "dataset.txt" file.
 	If the dataset is asm file, this step can be skipped.
 
 --------------------------------------------------
