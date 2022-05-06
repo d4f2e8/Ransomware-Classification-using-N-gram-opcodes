@@ -7,7 +7,8 @@ I: Disassembling
 --------------------------------------------------
 1）Disassemble all the ransomwars to get asm files
 2) Make sure you have label.csv file in the source folder. It contains the label information.
-  	If the dataset is asm file, this step can be skipped.
+  
+  If the dataset is asm file, this step can be skipped.
 
 --------------------------------------------------
 II: Extracting Opcodes
