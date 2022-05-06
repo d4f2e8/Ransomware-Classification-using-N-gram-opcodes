@@ -6,7 +6,7 @@ Ransomware Classification
 I: Disassembling
 --------------------------------------------------
 Disassemble all the ransomwars to get asm files
-If the dataset is asm file, this step can be skipped.
+	If the dataset is asm file, this step can be skipped.
 
 --------------------------------------------------
 II: Extracting Opcodes
